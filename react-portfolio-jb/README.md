@@ -14,7 +14,7 @@ You’ll deploy this application to GitHub Pages. Follow the instructions in the
 
 [URL HERE](https://gittohubbo.github.io/HW20-ReactPortfolio-JB/)
 
-Image here <img src="../images/React-Portfolio.png"/>
+Image here <img src="src/images/React-Portfolio.png"/>
 
 ```md
 AS AN employer looking for candidates with experience building single-page applications
