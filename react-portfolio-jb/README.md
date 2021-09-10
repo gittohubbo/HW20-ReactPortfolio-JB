@@ -10,7 +10,11 @@ You’ll deploy this application to GitHub Pages. Follow the instructions in the
 
 **Important:** Be sure to push your codebase to the default branch in GitHub -- NOT your built and deployed code. Ensure this happens by using the `gh-pages` branch to host the deployed application's build.
 
-## User Story
+## React Portfolio Deployed
+
+[URL HERE](https://gittohubbo.github.io/HW20-ReactPortfolio-JB/)
+
+Image here <img src="../images/React-Portfolio.png"/>
 
 ```md
 AS AN employer looking for candidates with experience building single-page applications

@@ -21,7 +21,7 @@ function About() {
                     <div class="row">
                         <div class="buffer"></div>
                         <div class="col-md-3" clasName="chico-image">
-                            <img className="chicoPic" src={Chico} class="prof-img img-responsive" alt="Chico-picture"></img>
+                            <img className="chicoPic" src={Chico} class="prof-img img-responsive" alt="chico-image"></img>
                         </div>
                         <div class="col-md-7 col-md-offset-1 about-me">
                             <p>Hi, I am Jorge, an Information Technology Professional with a focus in networking arquitecture.</p>
